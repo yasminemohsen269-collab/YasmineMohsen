@@ -8,10 +8,10 @@
 
 ### 👩‍💻 About Me
 
-- 💻 I’m a passionate Flutter developer who loves turning designs into beautiful mobile apps  
-- 🎨 I enjoy creating UI/UX designs with **Figma**  
-- 🧠 I’ve learned **C++** and have a solid foundation in **Object-Oriented Programming (OOP)**  
-- 🚀 Always eager to explore new technologies and improve my skills  
+- 💻 Flutter developer passionate about building mobile apps with clean UI  
+- 🎨 I enjoy designing UI/UX on **Figma**  
+- 🧠 I've learned **C++** and have a solid foundation in **Object-Oriented Programming (OOP)**  
+- 🚀 Always exploring new tools and technologies  
 - 📍 Based in Egypt 🇪🇬  
 
 ---
@@ -31,16 +31,30 @@
 ### 📱 What I'm working on
 
 > “This project helped me learn a lot — and I’m excited to build even more. See you in the next one!”  
-> – Currently building Flutter apps with clean UI and interactive features.
+> – Currently building Flutter apps with smooth animations and beautiful UIs.
+
+---
+
+### 📬 Connect with Me
+
+- 📧 Email: [yasminemohsen269@gmail.com](mailto:yasminemohsen269@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/yasmine-mohsen](https://eg.linkedin.com/in/yasmine-mohsen)  
+- 🌐 Facebook: [facebook.com/yasmine](https://www.facebook.com/share/1Fs17P4Zhp/?mibextid=qi2Omg)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasminemohsen269-collab&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminemohsen269-collab&layout=compact&theme=tokyonight" width="45%">
 </div>
+
+---
+
+### 🔄 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=yasminemohsen269-collab&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ---
 
